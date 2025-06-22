@@ -4,7 +4,7 @@ This project uses machine learning to predict the type of forest cover from geog
 
 ## 🚀 Live Demo
 
-🔗 https://forest-cover-d5zzpdnhccz22xbb5u3vva.streamlit.app/
+🔗 https://forest-cover-yuvraj.streamlit.app/
 
 
 ---
